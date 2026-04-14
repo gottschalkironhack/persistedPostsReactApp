@@ -16,7 +16,8 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
     "forceConsistentCasingInFileNames": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "types": ["vitest/globals"]
   },
   "include": ["src", "vite-env.d.ts"]
 }
